@@ -1,0 +1,3 @@
+[submodule "themes/bknext"]
+	path = themes/bknext
+	url = https://github.com/bksaas/hexo-theme-next.git
