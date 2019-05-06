@@ -5,9 +5,9 @@
   <subtitle>学习、交流、分享、成长</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://bksaas.com/"/>
+  <link href="http://blog.bksaas.com/"/>
   <updated>2019-05-06T06:51:04.448Z</updated>
-  <id>http://bksaas.com/</id>
+  <id>http://blog.bksaas.com/</id>
   
   <author>
     <name>pitou</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>关于hexo博客的托管和配置</title>
-    <link href="http://bksaas.com/2019/05/06/hexo/"/>
-    <id>http://bksaas.com/2019/05/06/hexo/</id>
+    <link href="http://blog.bksaas.com/2019/05/06/hexo/"/>
+    <id>http://blog.bksaas.com/2019/05/06/hexo/</id>
     <published>2019-05-06T06:18:42.000Z</published>
     <updated>2019-05-06T06:51:04.448Z</updated>
     
@@ -34,15 +34,15 @@
     
     </summary>
     
-      <category term="hexo" scheme="http://bksaas.com/categories/hexo/"/>
+      <category term="hexo" scheme="http://blog.bksaas.com/categories/hexo/"/>
     
     
   </entry>
   
   <entry>
     <title>sanic .</title>
-    <link href="http://bksaas.com/2018/10/09/sanic/"/>
-    <id>http://bksaas.com/2018/10/09/sanic/</id>
+    <link href="http://blog.bksaas.com/2018/10/09/sanic/"/>
+    <id>http://blog.bksaas.com/2018/10/09/sanic/</id>
     <published>2018-10-09T04:18:31.000Z</published>
     <updated>2018-11-08T14:34:10.833Z</updated>
     
@@ -62,8 +62,8 @@
   
   <entry>
     <title>够浪基础篇</title>
-    <link href="http://bksaas.com/2018/05/26/gobyexample/"/>
-    <id>http://bksaas.com/2018/05/26/gobyexample/</id>
+    <link href="http://blog.bksaas.com/2018/05/26/gobyexample/"/>
+    <id>http://blog.bksaas.com/2018/05/26/gobyexample/</id>
     <published>2018-05-26T01:21:55.000Z</published>
     <updated>2018-11-08T14:34:10.845Z</updated>
     
@@ -81,14 +81,14 @@
     </summary>
     
     
-      <category term="golang" scheme="http://bksaas.com/tags/golang/"/>
+      <category term="golang" scheme="http://blog.bksaas.com/tags/golang/"/>
     
   </entry>
   
   <entry>
     <title>实现一个特殊的栈，在实现栈的基本功能的基础上，再实现返回栈中最小元素</title>
-    <link href="http://bksaas.com/2018/02/26/q-1/"/>
-    <id>http://bksaas.com/2018/02/26/q-1/</id>
+    <link href="http://blog.bksaas.com/2018/02/26/q-1/"/>
+    <id>http://blog.bksaas.com/2018/02/26/q-1/</id>
     <published>2018-02-26T01:56:32.000Z</published>
     <updated>2018-11-08T14:34:10.829Z</updated>
     
@@ -101,17 +101,17 @@
     
     </summary>
     
-      <category term="每日一练" scheme="http://bksaas.com/categories/%E6%AF%8F%E6%97%A5%E4%B8%80%E7%BB%83/"/>
+      <category term="每日一练" scheme="http://blog.bksaas.com/categories/%E6%AF%8F%E6%97%A5%E4%B8%80%E7%BB%83/"/>
     
     
-      <category term="刷题" scheme="http://bksaas.com/tags/%E5%88%B7%E9%A2%98/"/>
+      <category term="刷题" scheme="http://blog.bksaas.com/tags/%E5%88%B7%E9%A2%98/"/>
     
   </entry>
   
   <entry>
     <title>git提交规范</title>
-    <link href="http://bksaas.com/2018/01/13/git-cimmit-standard/"/>
-    <id>http://bksaas.com/2018/01/13/git-cimmit-standard/</id>
+    <link href="http://blog.bksaas.com/2018/01/13/git-cimmit-standard/"/>
+    <id>http://blog.bksaas.com/2018/01/13/git-cimmit-standard/</id>
     <published>2018-01-12T20:30:18.000Z</published>
     <updated>2018-11-08T14:34:10.825Z</updated>
     
@@ -131,17 +131,17 @@
     
     </summary>
     
-      <category term="git" scheme="http://bksaas.com/categories/git/"/>
+      <category term="git" scheme="http://blog.bksaas.com/categories/git/"/>
     
     
-      <category term="git" scheme="http://bksaas.com/tags/git/"/>
+      <category term="git" scheme="http://blog.bksaas.com/tags/git/"/>
     
   </entry>
   
   <entry>
     <title>Mysql主从复制</title>
-    <link href="http://bksaas.com/2018/01/03/mysql-master-slave/"/>
-    <id>http://bksaas.com/2018/01/03/mysql-master-slave/</id>
+    <link href="http://blog.bksaas.com/2018/01/03/mysql-master-slave/"/>
+    <id>http://blog.bksaas.com/2018/01/03/mysql-master-slave/</id>
     <published>2018-01-03T08:22:38.000Z</published>
     <updated>2018-11-08T14:34:10.837Z</updated>
     
@@ -156,19 +156,19 @@
     
     </summary>
     
-      <category term="mysql" scheme="http://bksaas.com/categories/mysql/"/>
+      <category term="mysql" scheme="http://blog.bksaas.com/categories/mysql/"/>
     
     
-      <category term="mysql" scheme="http://bksaas.com/tags/mysql/"/>
+      <category term="mysql" scheme="http://blog.bksaas.com/tags/mysql/"/>
     
-      <category term="主从复制" scheme="http://bksaas.com/tags/%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6/"/>
+      <category term="主从复制" scheme="http://blog.bksaas.com/tags/%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6/"/>
     
   </entry>
   
   <entry>
     <title>vim精简配置</title>
-    <link href="http://bksaas.com/2018/01/03/vim-basic-1/"/>
-    <id>http://bksaas.com/2018/01/03/vim-basic-1/</id>
+    <link href="http://blog.bksaas.com/2018/01/03/vim-basic-1/"/>
+    <id>http://blog.bksaas.com/2018/01/03/vim-basic-1/</id>
     <published>2018-01-03T02:55:40.000Z</published>
     <updated>2018-11-08T14:34:10.829Z</updated>
     
@@ -181,17 +181,17 @@
     
     </summary>
     
-      <category term="vim" scheme="http://bksaas.com/categories/vim/"/>
+      <category term="vim" scheme="http://blog.bksaas.com/categories/vim/"/>
     
     
-      <category term="vim配置" scheme="http://bksaas.com/tags/vim%E9%85%8D%E7%BD%AE/"/>
+      <category term="vim配置" scheme="http://blog.bksaas.com/tags/vim%E9%85%8D%E7%BD%AE/"/>
     
   </entry>
   
   <entry>
     <title>Vagrant搭建集群环境</title>
-    <link href="http://bksaas.com/2018/01/03/vagrant-cluster/"/>
-    <id>http://bksaas.com/2018/01/03/vagrant-cluster/</id>
+    <link href="http://blog.bksaas.com/2018/01/03/vagrant-cluster/"/>
+    <id>http://blog.bksaas.com/2018/01/03/vagrant-cluster/</id>
     <published>2018-01-03T01:07:08.000Z</published>
     <updated>2018-11-08T14:34:10.825Z</updated>
     
@@ -209,10 +209,10 @@ vagrant box add xxx.box
     
     </summary>
     
-      <category term="vagrant" scheme="http://bksaas.com/categories/vagrant/"/>
+      <category term="vagrant" scheme="http://blog.bksaas.com/categories/vagrant/"/>
     
     
-      <category term="vagrant" scheme="http://bksaas.com/tags/vagrant/"/>
+      <category term="vagrant" scheme="http://blog.bksaas.com/tags/vagrant/"/>
     
   </entry>
   
