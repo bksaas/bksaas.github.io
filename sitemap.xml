@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://bksaas.com/2019/05/06/hexo/</loc>
+    
+    <lastmod>2019-05-06T06:42:27.084Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bksaas.com/about/index.html</loc>
+    
+    <lastmod>2019-05-06T06:23:33.422Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://bksaas.com/tags/index.html</loc>
     
     <lastmod>2018-11-08T14:34:10.849Z</lastmod>
@@ -10,13 +24,6 @@
   
   <url>
     <loc>http://bksaas.com/2018/05/26/gobyexample/</loc>
-    
-    <lastmod>2018-11-08T14:34:10.845Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bksaas.com/about/index.html</loc>
     
     <lastmod>2018-11-08T14:34:10.845Z</lastmod>
     
@@ -44,13 +51,6 @@
   </url>
   
   <url>
-    <loc>http://bksaas.com/2018/02/26/q-1/</loc>
-    
-    <lastmod>2018-11-08T14:34:10.829Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://bksaas.com/2018/01/03/vim-basic-1/</loc>
     
     <lastmod>2018-11-08T14:34:10.829Z</lastmod>
@@ -58,14 +58,21 @@
   </url>
   
   <url>
-    <loc>http://bksaas.com/2018/01/13/git-cimmit-standard/</loc>
+    <loc>http://bksaas.com/2018/02/26/q-1/</loc>
+    
+    <lastmod>2018-11-08T14:34:10.829Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bksaas.com/2018/01/03/vagrant-cluster/</loc>
     
     <lastmod>2018-11-08T14:34:10.825Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://bksaas.com/2018/01/03/vagrant-cluster/</loc>
+    <loc>http://bksaas.com/2018/01/13/git-cimmit-standard/</loc>
     
     <lastmod>2018-11-08T14:34:10.825Z</lastmod>
     
