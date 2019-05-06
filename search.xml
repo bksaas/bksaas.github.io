@@ -4,12 +4,18 @@
   
     
     <entry>
-      <title></title>
+      <title>关于hexo博客的托管和配置</title>
       <link href="/2019/05/06/hexo/"/>
       <url>/2019/05/06/hexo/</url>
       
-        <content type="html"><![CDATA[<hr><p>title: 关于hexo博客的托管和配置<br>author: 吃瓜群众<br>date: 2019-05-06 14:18:42<br>tags:   </p><h2 id="category-hexo"><a href="#category-hexo" class="headerlink" title="category:  hexo "></a>category:  hexo </h2><a id="more"></a><h1 id="关于hexo博客的托管和配置"><a href="#关于hexo博客的托管和配置" class="headerlink" title="关于hexo博客的托管和配置"></a>关于hexo博客的托管和配置</h1><h2 id="一、-代码托管"><a href="#一、-代码托管" class="headerlink" title="一、 代码托管"></a>一、 代码托管</h2><ol><li><p>托管到github</p></li><li><p>托管到coding</p></li></ol><h2 id="二、-分支结构"><a href="#二、-分支结构" class="headerlink" title="二、 分支结构"></a>二、 分支结构</h2><ol><li>master分支：存放博客静态资源</li><li>hexo分支：存放博客的源码</li></ol><h2 id="三、-域名配置"><a href="#三、-域名配置" class="headerlink" title="三、 域名配置"></a>三、 域名配置</h2><p>手上恰好有腾讯云的域名，分配两个域名给博客</p><ol><li>coding绑定域名：blog.bksaas.com</li></ol><p>&ensp;&ensp;&ensp;&ensp;添加CNAME类型域名，指向：<code>username.coding.me</code><br>&ensp;&ensp;&ensp;&ensp;配置位置：<code>代码 &gt; Pages 服务 &gt; 设置 &gt; 绑定新域名</code></p><ol start="2"><li>github绑定域名：feichai.bksaas.com</li></ol><p>&ensp;&ensp;&ensp;&ensp;添加CNAME类型域名，指向：<code>username.github.io</code><br>&ensp;&ensp;&ensp;&ensp;配置位置：<code>Settings &gt; GitHub Pages &gt; Custom domain</code></p>]]></content>
+        <content type="html"><![CDATA[<a id="more"></a><h1 id="关于hexo博客的托管和配置"><a href="#关于hexo博客的托管和配置" class="headerlink" title="关于hexo博客的托管和配置"></a>关于hexo博客的托管和配置</h1><h2 id="一、-代码托管"><a href="#一、-代码托管" class="headerlink" title="一、 代码托管"></a>一、 代码托管</h2><ol><li><p>托管到github</p></li><li><p>托管到coding</p></li></ol><h2 id="二、-分支结构"><a href="#二、-分支结构" class="headerlink" title="二、 分支结构"></a>二、 分支结构</h2><ol><li>master分支：存放博客静态资源</li><li>hexo分支：存放博客的源码</li></ol><h2 id="三、-域名配置"><a href="#三、-域名配置" class="headerlink" title="三、 域名配置"></a>三、 域名配置</h2><p>手上恰好有腾讯云的域名，分配两个域名给博客</p><ol><li>coding绑定域名：blog.bksaas.com</li></ol><p>&ensp;&ensp;&ensp;&ensp;添加CNAME类型域名，指向：<code>username.coding.me</code><br>&ensp;&ensp;&ensp;&ensp;配置位置：<code>代码 &gt; Pages 服务 &gt; 设置 &gt; 绑定新域名</code></p><ol start="2"><li>github绑定域名：feichai.bksaas.com</li></ol><p>&ensp;&ensp;&ensp;&ensp;添加CNAME类型域名，指向：<code>username.github.io</code><br>&ensp;&ensp;&ensp;&ensp;配置位置：<code>Settings &gt; GitHub Pages &gt; Custom domain</code></p>]]></content>
       
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
       
       
     </entry>
